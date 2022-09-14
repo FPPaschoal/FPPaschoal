@@ -1,6 +1,5 @@
-  ### Sobre mim
-
-- Olá, me chamo Felipe Paschoal e sou aluno de Análise e Desenvolvimento de Sistemas da Fatec-Rp. Assuntos que tangem tecnologia e programação me instigam muito.
+ ### Olá, me chamo Felipe Paschoal, aluno de Análise e Desenvolvimento de Sistemas da Fatec-Rp. 
+##
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
