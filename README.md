@@ -2,10 +2,26 @@
 
 - Olá, me chamo Felipe Paschoal e sou aluno de Análise e Desenvolvimento de Sistemas da Fatec-Rp. Assuntos que tangem tecnologia e programação me instigam muito.
 
-- Descobri meu interesse na área da programação no começo de 2021, porém comecei a me aprofundar mais no assunto no começo de 2022. Desde então, venho sempre tentando me aperfeiçoar e sair da minha zona de conforto para minha melhor performance!
- 
- 
-### Contato
-- Email: fpaulapaschoal@gmail.com
+<div align="center">
+  <a href="https://github.com/FPPaschoal">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FPPaschoal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FPPaschoal&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+          
+</div>
 
-- [LinkedIn](https://www.linkedin.com/in/fppaschoal/)
+##
+
+<div> 
+  <a href = "mailto:fpaulapaschoal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fppaschoal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
